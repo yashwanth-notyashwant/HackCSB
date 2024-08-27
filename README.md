@@ -1,6 +1,10 @@
 # HackCSB
 
-A new Flutter project.
+This is my submission for the Hackathon by HackSCB,
+This is made with the notion to help people in the remote areas to get access to courses that are free of cost and the content that are generated using AI.
+The app creates Courses, Quizes based on context, Analysis for your Quizes and many more exciting functions.
+
+
 
 ## Getting Started
 
